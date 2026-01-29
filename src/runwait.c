@@ -7,6 +7,7 @@ static double d(struct timespec a, struct timespec b){
  return (b.tv_sec-a.tv_sec)+(b.tv_nsec-a.tv_nsec)/1e9;}
 int main(int c,char**v){
 /* TODO : ADD CODE HERE
+sadwasd
 */
  return 0;
 }
